@@ -37,13 +37,13 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output](./1-norm.png)
+![output](./onenorm.jpeg)
 
 ### 2-Norm of a Matrix
-![output](./2-norm.png)
+![output](./twonorm.jpeg)
 
 ### Infinity Norm of a Matrix
-![output](./infinity-norm.png)
+![output](./infnorm.jpeg)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
